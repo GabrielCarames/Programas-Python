@@ -140,6 +140,7 @@ santiago.agregarMateriaAlumno(Redes,8)
 manuel.agregarMateriaAlumno(Redes, 6)
 gabriel.agregarMateriaAlumno(Redes, 10)
 fede.agregarMateriaAlumno(Redes, 5)
+
 #Se le ingresa a cada materia su alumno
 Matematica.agregarAlumno(santiago)
 Matematica.agregarAlumno(manuel)
